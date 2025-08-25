@@ -61,5 +61,6 @@ Make your changes
 
 Submit a pull request
 
-
+Screenshot
+![Dashboard Preview](https://github.com/Indro1729/DASHBOARD/blob/main/Sales.png)
 
